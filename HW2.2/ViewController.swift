@@ -15,19 +15,19 @@ class ViewController: UIViewController {
     }
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        print("One")
+        print("One1")
     }
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        print("Two")
+        print("Two1")
     }
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
-        print ("Three")
+        print ("Three1")
     }
     override func viewDidDisappear(_ animated: Bool) {
         super.viewDidDisappear(animated)
-        print ("Four")
+        print ("Four1")
     }
 }
 
